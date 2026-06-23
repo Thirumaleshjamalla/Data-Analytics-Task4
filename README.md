@@ -13,14 +13,9 @@ This project demonstrates the creation of an interactive sales dashboard using P
 * Business Insights
 
 ### Tools Used
-
+* SQL
 * Power BI
 * Excel Dataset
 
-### Dashboard Preview
 
-(Add Screenshot Here)
 
-### Author
-
-J. Thirumalesh
